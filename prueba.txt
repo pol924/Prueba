@@ -1,0 +1,4 @@
+user=as=12=true=true=false=true=true
+user=jose=jose=true=true=false=true=true
+user=admin=1234=true=true=true=true=true
+user=pepe=pepe=false=false=true=true=true
